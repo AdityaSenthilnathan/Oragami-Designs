@@ -1,0 +1,192 @@
+
+a{
+    size: 3;
+}
+
+
+.followus{
+    background-color:#00bdf7;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap; 
+    color: #1900ff;
+    box-shadow: 10px -10px;
+    
+    padding: 10% 10%;
+    
+    
+    align-items: center;
+
+    
+    font-family: serif;
+    font-size: 24px;
+    
+    background-repeat: no-repeat;
+    background-image: url("code-matrix.jpg");
+  
+    background-size: 100% 100%;
+    color: #00ffd5;
+
+}
+.aboutus{
+    background-color:#00bdf7;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap; 
+    color: #1900ff;
+    box-shadow: 10px -10px;
+    
+    padding: 10% 10%;
+    
+    
+    align-items: center;
+
+    
+    font-family: serif;
+    font-size: 24px;
+    
+    background-repeat: no-repeat;
+    background-image: url("code-matrix.jpg");
+  
+    background-size: 100% 100%;
+    color: #00ffb3;
+    
+
+}
+.orogami{
+  
+    background-color:#00bdf7;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap; 
+    color: #1900ff;
+    box-shadow: 10px -10px;
+    
+    padding: 10% 10%;
+    
+    
+    align-items: center;
+
+    margin: 0px; 
+    font-family: serif;
+    font-size: 24px;
+    border-style: solid ;
+
+    
+
+}
+
+.hummingbird{
+    background-color:#00bdf7;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap; 
+   
+    box-shadow: 10px -10px;
+
+    padding: 10% 10%;
+    
+    
+    align-items: center;
+
+
+    font-family: serif;
+    font-size: 24px;
+    
+
+    background-image: url("Hummingbird.jpeg");
+   
+    background-size: 100% 100%;
+    color: #1900ff; 
+
+    color: #00ffb3;
+}
+
+
+.turtle{
+    background-color:#00bdf7;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap; 
+    color: #1900ff;
+    box-shadow: 10px -10px;
+    
+    padding: 10% 10%;
+    
+    
+    align-items: center;
+
+ 
+    font-family: serif;
+    font-size: 24px;
+    
+
+    background-image: url("Turtle .jpeg");
+  
+    background-size: 100% 100%;
+    color: #00ffb3;
+
+}
+
+.bunny{
+
+    background-color:#00bdf7;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap; 
+    color: #1900ff;
+    box-shadow: 10px -10px;
+    
+    padding: 10% 10%;
+    
+    
+    align-items: center;
+
+    
+    font-family: serif;
+    font-size: 24px;
+    
+    background-repeat: no-repeat;
+    background-image: url("bunny.jpg");
+  
+    background-size: 100% 100%;
+    color: #00ffb3;
+}
+
+a:link{
+    color: #00ffaa;
+}
+a:visited{
+    color: #3700ff;
+}
+.hummingbirdimg:hover{
+
+    transform: scale(1.1);
+}
+.bunnyimg:hover{
+
+    transform: scale(1.1);
+}
+.turtleimg:hover{
+
+    transform: scale(1.1);
+}
+.aboutusimg:hover{
+
+    transform: scale(1.05);
+}
+.followusimg:hover{
+
+    transform: scale(1.05);
+}
+.links{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.orogamiimg:hover{
+    transform: scale(1.05);
+
+}
